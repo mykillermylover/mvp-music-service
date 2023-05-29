@@ -1,0 +1,54 @@
+#home-form {
+
+}
+body {
+    height: 100vh;
+    color: aliceblue;
+    background: #47c1c1;
+    background: -moz-radial-gradient(center, ellipse cover,  #47c1c1 0%, #af0387 100%);
+    background: -webkit-radial-gradient(center, ellipse cover,  #47c1c1 0%,#af0387 100%);
+    background: radial-gradient(ellipse at center,  #47c1c1 0%,#af0387 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#47c1c1', endColorstr='#af0387',GradientType=1 );
+
+    overflow-wrap: break-word;
+}
+.bgCustom {
+    background: rgba(0,0,0,0.52);
+}
+.border {
+    border-radius: 10px;
+}
+h3 {
+    padding: 10px;
+    color: aliceblue;
+}
+.blue {
+    background: rgba(90,235,255,0.19);
+    border-radius: 10px;
+}
+span {
+    color: rgba(255,255,255,0.73)
+}
+
+.card-body, .modal-content, .table, .navbar {
+    background: rgba(10,10,10,0.63);
+}
+
+.tracks {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.track {
+    width: 300px;
+    margin: 0 10px;
+    text-align: center;
+}
+
+.ABOBA {
+    height: 280px;
+    width: 280px;
+    background: #000;
+    margin: 1px auto 10px;
+}

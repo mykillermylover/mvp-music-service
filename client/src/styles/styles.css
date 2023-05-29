@@ -1,0 +1,14 @@
+button {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#login-form {
+    margin-top: 200px;
+    background: aliceblue;
+    padding: 20px 40px;
+    border-radius: 10px;
+}
+
+.h3adm {
+    background: rgba(21,0,28,0.83)
+}
